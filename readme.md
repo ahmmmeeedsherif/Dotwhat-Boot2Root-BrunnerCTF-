@@ -77,11 +77,13 @@ To determine the OS, I attempted to run `pwd`:
 }
 </script>
 ```
+
 ![Image](images/Pasted%20image%2020250824170349.png)
 <br/>
 
 
 The output confirmed we were on a **Linux host**.
+<br/>
 ![Image](images/Pasted%20image%2020250824170423.png)
 <br/>
 
