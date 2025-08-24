@@ -54,6 +54,7 @@ I tested SSTI with a simple arithmetic payload:
 
 Looking at the **page source**, I saw the value `49` — proof that SSTI was working!  
 This meant we could escalate from XSS → SSTI → RCE.
+<br/>
 ![Image](images/Pasted%20image%2020250824165615.png)
 <br/>
 
