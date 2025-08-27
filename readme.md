@@ -2,6 +2,7 @@
 
 In this writeup, we’ll go through solving the **Dotwhat** Boot2Root challenge from **BrunnerCTF**.  
 The target is a `.NET` web application, and we’ll exploit it step-by-step to gain user and root access.
+<br/>
 ![Image](images/Pasted%20image%2020250824164409.png)
 <br/>
 
